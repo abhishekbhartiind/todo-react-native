@@ -1,5 +1,18 @@
+### React Native Learning
+
 ```
+npm install -g expo-cli
+
+# generate a new app
+expo init project_name
+
+# make sure to navigate inside the project directory
+cd project_name
+
 yarn add react-navigation react-navigation-stack react-native-paper @react-native-community/masked-view
+
+expo install react-navigation react-native-gesture-handler react-native-reanimated react-native-screens react-navigation-stack
+
 ```
 
 Components are the visual elements that you see on the screen in a React Native app.
